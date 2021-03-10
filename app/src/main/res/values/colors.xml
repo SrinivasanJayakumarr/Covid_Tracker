@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    
+    <color name="bg_blue_color">#090121</color>
+    <color name="tn_font_blue">#0191B4</color>
+    <color name="green_color">#3CB371</color>
+    <color name="red_color">#FF0000</color>
+    <color name="hash_color">#A5A5A5</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFC300</color>
+    <color name="orange">#FF8C00</color>
+
+    <color name="transparent">#00FFFFFF</color>
+    <color name="bg_start_color_gradient">#330867</color>
+
+    <color name="cyan">#0C4749</color>
+</resources>

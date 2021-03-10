@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">Covid_Tracker</string>
+
+    <string name="covid">COVID19</string>
+    <string name="hyphen">-</string>
+    <string name="tn">TAMILNADU</string>
+    <string name="total">TOTAL</string>
+    <string name="active">ACTIVE</string>
+    <string name="recovered">RECOVERED</string>
+    <string name="dead">DEAD</string>
+    <string name="updated">Last updated 08/07/2020 08:20AM IST</string>
+    <string name="search">Search...</string>
+    <string name="most_affected">MOST AFFECTED CITIES</string>
+    <string name="city1main">CHENNAI</string>
+    <string name="city2main">MADURAI</string>
+    <string name="city3main">CHENGALPATTU</string>
+    <string name="city4main">KANCHEEPURAM</string>
+    <string name="count_tot">000000</string>
+    <string name="count_rec">000000</string>
+    <string name="count_act">000000</string>
+    <string name="count_dead">0000</string>
+    <string name="explore">EXPLORE</string>
+    <string name="mor_rate">MORTALITY RATE</string>
+    <string name="rec_rate">RECOVERY RATE</string>
+    <string name="rate_amount">00.00%</string>
+    <string name="rate_amount_mor">0.00%</string>
+    <string name="dos">DOS</string>
+    <string name="donts">DONTS</string>
+
+    <string name="rail">RAILWAY</string>
+    <string name="quaran">QUARANTINE</string>
+    <string name="airport">AIRPORT</string>
+    <string name="credits">CREDITS</string>
+    <string name="covidwebaddr">COVID19INDIA.ORG</string>
+
+    <string name="tested_tn">TESTED</string>
+    <string name="tested_count">0000000</string>
+
+    <string name="population">POPULATION</string>
+    <string name="popu_count">75695000</string>
+
+    <string name="hand_wash">HAND WASH</string>
+    <string name="hand_wash_cont">Regular hand wash for 30 seconds will help you avoid germs or any kind of infection.</string>
+
+    <string name="mask">WEAR MASK</string>
+    <string name="mask_cont">Covering your mouth and nose while sneezing or when anyone next to coughs or sneezes can do you a lot better.</string>
+
+    <string name="doctor">CONSULT DOCTOR</string>
+    <string name="doctor_cont">If you are suffering from a common cold, cough, nausea, vomiting, shortness of breath and fatigue consult a doctor ASAP.</string>
+
+    <string name="stay_home">STAY HOME</string>
+    <string name="stay_home_cont">Avoid being in crowded places.An infected person can spread the virus instantly.</string>
+
+    <string name="close_contact">AVOID CLOSE CONTACT</string>
+    <string name="close_contact_cont">Do not get close to anyone, especially touching or laughing closely.</string>
+
+    <string name="dont_spit">DO NOT SPIT</string>
+    <string name="dont_spit_cont">Spitting can increase the spread of the virus. Avoid spiting at in public and home.</string>
+
+    <string name="avoid_public_transport">AVOID PUBLIC TRANSPORT</string>
+    <string name="apt_cont">Travelling by cab, flight, bus, train and tramp can get you infected.</string>
+
+    <string name="counter_medicines">COUNTER MEDICINES</string>
+    <string name="counter_medicines_cont">If you feel dry cough, back pain and nausea, do not take self-medication.</string>
+
+    <string name="search_city">Search city</string>
+
+    <string-array name="cities">
+        <item>Ariyalur</item>
+        <item>Chengalpattu</item>
+        <item>Chennai</item>
+        <item>Coimbatore</item>
+        <item>Cuddalore</item>
+        <item>Dharmapuri</item>
+        <item>Dindigul</item>
+        <item>Erode</item>
+        <item>Kallakurichi</item>
+        <item>Kancheepuram</item>
+        <item>Kanyakumari</item>
+        <item>Karur</item>
+        <item>Krishnagiri</item>
+        <item>Madurai</item>
+        <item>Nagapattinam</item>
+        <item>Namakkal</item>
+        <item>Nilgiris</item>
+        <item>Perambalur</item>
+        <item>Pudukottai</item>
+        <item>Ramanathapuram</item>
+        <item>Ranipet</item>
+        <item>Salem</item>
+        <item>Sivaganga</item>
+        <item>Tenkasi</item>
+        <item>Thanjavur</item>
+        <item>Theni</item>
+        <item>Thiruvallur</item>
+        <item>Thiruvarur</item>
+        <item>Thoothukkudi</item>
+        <item>Tiruchirappalli</item>
+        <item>Tirunelveli</item>
+        <item>Tirupathur</item>
+        <item>Tiruppur</item>
+        <item>Tiruvannamalai</item>
+        <item>Vellore</item>
+        <item>Vilupuram</item>
+        <item>Virudhunagar</item>
+    </string-array>
+
+    <string name="city_name">CITY</string>
+    <string name="zone">ZONE DETAILS</string>
+    <string name="zone_green">Green</string>
+    <string name="zone_yellow">Yellow</string>
+    <string name="zone_red">Red</string>
+
+    <string name="note">Note :</string>
+    <string name="note_descri">Data has been  updated regularly between 19:00 and 21:00 IST</string>
+
+    <string name="state">STATE</string>
+    <string name="country">COUNTRY</string>
+    <string name="india">INDIA</string>
+
+    <string name="confirmed">CONFIRMED</string>
+    <string name="today">TODAY</string>
+
+    <string name="plus">+</string>
+    <string name="percen">%</string>
+
+    <string name="last_updated">Last updated </string>
+    <string name="ist"> IST</string>
+    <string name="ramnadu">RAMNADU</string>
+    <string name="trichy">TRICHY</string>
+    <string name="check_before_u_leave">Check before you leave</string>
+</resources>
