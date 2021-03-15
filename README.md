@@ -1,6 +1,6 @@
 # <img src="https://github.com/SrinivasanJayakumarr/Covid_Tracker/blob/master/ScreenShots/covid_icon.png" width="70"> <a href="https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/master" target="_blank">Covid Tracker</a>
 
-![API](https://img.shields.io/badge/API-23%2B-brightgreen.svg?style=flat) [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat) [![GitHub issues](https://img.shields.io/github/issues/SrinivasanJayakumarr/Weathery-Weather_App)](https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/issues) ![OpenSource](https://img.shields.io/badge/OpenSource-YES-brightgreen) [![GitHub forks](https://img.shields.io/github/forks/SrinivasanJayakumarr/Weathery-Weather_App)](https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/network)
+![API](https://img.shields.io/badge/API-26%2B-brightgreen.svg?style=flat) [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat) [![GitHub issues](https://img.shields.io/github/issues/SrinivasanJayakumarr/Weathery-Weather_App)](https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/issues) ![OpenSource](https://img.shields.io/badge/OpenSource-YES-brightgreen) [![GitHub forks](https://img.shields.io/github/forks/SrinivasanJayakumarr/Weathery-Weather_App)](https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/network)
 
 ## _A simple app that gives reliable and most updated COVID-19 cases data for TamilNadu_
 
@@ -108,3 +108,6 @@ Motorola One Power Android V10 (stock UI)
 
 ## Versioning
 We use GitHub for Versioning.
+
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" width="91"/>
