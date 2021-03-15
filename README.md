@@ -2,13 +2,30 @@
 
 ![API](https://img.shields.io/badge/API-23%2B-brightgreen.svg?style=flat) [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat) [![GitHub issues](https://img.shields.io/github/issues/SrinivasanJayakumarr/Weathery-Weather_App)](https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/issues) ![OpenSource](https://img.shields.io/badge/OpenSource-YES-brightgreen) [![GitHub forks](https://img.shields.io/github/forks/SrinivasanJayakumarr/Weathery-Weather_App)](https://github.com/SrinivasanJayakumarr/Weathery-Weather_App/network)
 
-## _A Weather app that gives uninterupted and seamless weather data_
+## _A simple app that gives reliable and most updated COVID-19 cases data for TamilNadu_
 
 
 ### :scroll: Description
 
-Inside the app, we have a functionality to get live weather data for our current location and location search functionality too. We can get a live weather update
-for any _remote location_. App provides 12 hours of forecast weather data for a queried location.
+Covid Tracker gives reliable and consistent data of COVID-19 and it describes what are all the Do,s and Dont,s in COVID situation too. We can also explore each and every city
+in TamilNadu. We can get the following data from the app,
+
+      - COVID-19 Affected Cases
+      - COVID-19 Active Cases
+      - COVID-19 Recovered Cases
+      - COVID-19 Deceased Cases
+
+COVID-19 Today Data
+      
+      - COVID-19 Today Affected
+      - COVID-19 Today Active
+      - COVID-19 Today Recovered
+      - COVID-19 Today Deceased
+
+COVID-19 Overall Rates
+
+      - Recovery Rate
+      - Mortality Rate
 
 - Ease of use
 - User friendly
@@ -22,18 +39,29 @@ for any _remote location_. App provides 12 hours of forecast weather data for a 
 
 ## :hammer_and_wrench: Libraries, Widgets and Tools
 
-- Batch Drawable Importer
-- ViewModel - LiveData
+- Airbnb
+- _Batch Drawable Importer_
 - SharedPreferences - To store and retrieve data whenever the app is restarted
 - Card View
 - ImageView
+- TextView
+- SearchView
+- _LottieAnimationView_
 - Material Design Components
-- RecyclerView (Horizontal)
-- Picasso
-- Volley
+- ListView
+- AlertDialog
+- SnackBar
+- Toast
+- _Picasso_
+- _Volley_
 - OkHttp
-- <a href="https://openweathermap.org/api" target="_blank">OpenWeatherMap API</a>
-- JSON
+- <a href="https://openweathermap.org/api" target="_blank"> OpenWeatherMap API </a>
+- JSON Fetching and Parsing
+- Notification Channels
+- _Animation Library_
+- _Connectivity Manager_ - for get the information that whether the app has data connectivity or not
+- _BroadCastReceivers_ - for Notification and Auto Internet Connection Check
+- Handler
 - and some minor tools, views and widgets
 
 ## :computer: Language
